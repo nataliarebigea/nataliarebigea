@@ -58,12 +58,7 @@ Results-driven and highly motivated **Systems Engineering** student with a stron
 *   🇬🇧 **Cambridge C1 Advanced Certificate** (Professional Fluent English Proficiency)[cite: 2].
 *   🗄️ Currently pursuing professional industry accreditation in advanced **SQL**[cite: 2].
 
----
 
-### 📊 GitHub Stats
-![Natalia's Stats](https://github-readme-stats.vercel.app/api?username=nataliarebigea&show_icons=true&theme=radical)
-
----
 
 ### 🤝 Soft Skills & Community Engagement
 *   **Communication:** Exceptional at bridging the gap between developers and stakeholders, handling code reviews, and explaining root causes[cite: 2].
