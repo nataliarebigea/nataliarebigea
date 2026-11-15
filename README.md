@@ -8,11 +8,11 @@
 </p>
 
 ### 💻 About Me
-Results-driven **Systems Engineering** student with an analytical mindset and hands-on experience spanning enterprise backend architecture, database engineering, and applied AI systems. Proven ability to architect full-stack distributed web applications and complex automation pipelines, turning intricate logic into clean, self-documenting code. With an interdisciplinary background in psychopedagogy and HCI, I bridge the gap between robust engineering, user experience, and product stakeholders.
+Results-driven **Systems Engineering** student with an analytical mindset and hands-on experience spanning enterprise backend architecture, database engineering, and applied AI systems[cite: 1]. Proven track record of architecting full-stack distributed web applications and complex automation pipelines, turning intricate business logic into clean, self-documenting code[cite: 1, 2]. With an interdisciplinary background in psychopedagogy and HCI, I effectively bridge the gap between robust engineering, user experience, and product stakeholders[cite: 1].
 
-- 🎓 **Education:** Systems Engineering Student (3rd Year) @ **Politehnica University of Timișoara** (Faculty of Automation and Computing).
+- 🎓 **Education:** Systems Engineering Student (3rd Year) @ **Politehnica University of Timișoara** (Faculty of Automation and Computing)[cite: 1].
 - 🧠 **Interdisciplinary Studies:** Pursuing a B.A. in **Psychopedagogy** (focus on *Educational Psychology* & *Human-Computer Interaction*).
-- 🌍 **Location:** Timișoara, Romania.
+- 🌍 **Location:** Timișoara, Romania[cite: 1].
 
 ---
 
@@ -20,56 +20,56 @@ Results-driven **Systems Engineering** student with an analytical mindset and ha
 
 | Category | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages** | `Java (25)`, `Python`, `SQL`, `Oracle PL/SQL`, `C#`, `C/C++`, `JavaScript / ES6+`, `HTML5 / CSS3` |
-| **Backend & Architecture** | `Spring Boot (REST APIs, Security, Data JPA)`, `Hibernate`, `Microservices & REST Design`, `OOP`, `SOLID` |
-| **Frontend & UI/UX** | `React 19`, `Vite`, `Vanilla CSS (Responsive, Design Systems)`, `PySide (Qt)` |
-| **Databases & ORM** | `PostgreSQL`, `Oracle DB (PL/SQL Packages/Triggers)`, `MsSQL`, `SQLite`, `Flyway Migrations` |
-| **AI Integration & Automation**| `Google Gemini API`, `LangGraph`, `Multi-Agent Systems`, `Event-Driven HITL Pipelines`, `Prompt Engineering` |
-| **DevOps & Tooling** | `Docker`, `Docker Compose`, `Git & GitHub Flow`, `Maven`, `JUnit`, `Apache PDFBox`, `ESLint` |
+| **Languages** | `Java (25)`, `Python`, `SQL`, `Oracle PL/SQL`, `C#`, `C/C++`, `JavaScript (ES6+)`, `HTML5 / CSS3`[cite: 1, 2] |
+| **Backend & Architecture** | `Spring Boot (REST APIs, Security, Data JPA)`, `Hibernate`, `Microservices & REST Design`, `OOP`, `SOLID`[cite: 1, 2] |
+| **Frontend & UI/UX** | `React 19`, `Vite`, `Vanilla CSS (Responsive, Custom Design Systems)`, `PySide (Qt)`[cite: 1, 2] |
+| **Databases & ORM** | `PostgreSQL`, `Oracle DB (PL/SQL Packages/Triggers)`, `MsSQL`, `SQLite`, `Flyway Migrations`[cite: 1, 2] |
+| **AI Integration & Automation**| `Google Gemini API`, `LangGraph`, `Multi-Agent Systems`, `Event-Driven HITL Pipelines`, `Prompt Engineering`[cite: 1, 2] |
+| **DevOps & Tooling** | `Docker`, `Docker Compose`, `Git & GitHub Flow`, `Maven`, `JUnit`, `Apache PDFBox`, `ESLint`[cite: 1, 2] |
 
 ---
 
 ### 💼 Professional Experience
 
-#### **AI Engineering Intern** | *Zentr Pro (March 2026 – May 2026)*
-* **Technical Execution:** Engineered an event-driven **6-node sequential pipeline** with *Human-in-the-Loop (HITL)* checkpoints to enforce deterministic quality control and backend reliability.
-* **Product Delivery:** Contributed directly to the backend of the **SkillBrain AI Content Engine**, delivering end-to-end generation of structured educational courses (modules, practical exercises, assessments) in 5–15 minutes.
-* **Business Alignment:** Partnered with product and engineering managers to translate functional course-generation specs into modular, fault-tolerant Python services.
+#### **AI Engineering Intern** | *Zentr Pro (March 2026 – May 2026)*[cite: 1]
+- **Technical Execution:** Engineered an event-driven **6-node sequential pipeline** with *Human-in-the-Loop (HITL)* checkpoints to enforce deterministic quality control and backend reliability[cite: 1].
+- **Product Delivery:** Contributed directly to the backend of the **SkillBrain AI Content Engine**, delivering end-to-end generation of structured educational courses (modules, practical exercises, assessments) within 5–15 minutes[cite: 1].
+- **Business Alignment:** Partnered with product and engineering managers to translate functional course-generation specs into modular, fault-tolerant Python services[cite: 1].
 
 ---
 
 ### 🚀 Featured Engineering Projects
 
 #### 🌟 Flagship Full-Stack & AI System
-* **StudyForge – AI Exam Prep & Active Learning Platform (Team Project | v3.1.0):**
-  * **System Overview:** Full-stack distributed platform enabling students to parse syllabi, generate personalized multi-week learning schedules, practice dynamic flashcards, and track cohort metrics (~10k+ total LOC across 70 Java classes and 10 React views).
-  * **Backend & Security:** Architected **29 secure RESTful endpoints** using **Spring Boot (Java 25)** and **Spring Security (OAuth2 / Stateless JWT)**; integrated **Flyway** for database migrations across 6 schema revisions.
-  * **AI & Document Pipeline:** Implemented an automated syllabus intake pipeline utilizing **Apache PDFBox** to extract course content from up to 20MB PDFs and integrated **Google Gemini (gemini-3.5-flash)** via REST to generate structured weekly study roadmaps, active recall flashcards, and contextual hints.
-  * **Frontend & UX:** Built a zero-dependency React 19 + Vite client with bespoke CSS styling (custom SPA router, toast notifications, progress graphs, 3D card flipping, and mini-games), keeping bundle footprint ultra-light.
-  * **Infrastructure:** Orchestrated containerized development workflows via **Docker Compose** (`PostgreSQL` + backend) and ensured reliability through comprehensive **JUnit & Maven** test suites.
+- **StudyForge – AI Exam Prep & Active Learning Platform (Team Project | v3.1.0):**[cite: 2]
+  - **System Overview:** Full-stack distributed platform enabling students to parse course syllabi, generate personalized multi-week study schedules, practice dynamic flashcards, and track cohort metrics (~10k+ total LOC across 70 Java classes and 10 React views)[cite: 2].
+  - **Backend & Security:** Architected **29 secure RESTful endpoints** using **Spring Boot (Java 25)** and **Spring Security (OAuth2 / Stateless JWT)**; integrated **Flyway** for automated database migrations across 6 schema revisions[cite: 2].
+  - **AI & Document Pipeline:** Implemented an automated syllabus intake pipeline utilizing **Apache PDFBox** to extract text from course syllabi up to 20MB and integrated **Google Gemini (gemini-3.5-flash)** via REST to generate structured weekly study plans, active recall flashcards, and contextual hints[cite: 2].
+  - **Frontend & UX:** Built a zero-dependency React 19 + Vite client with bespoke CSS styling (custom SPA router, toast notifications, progress analytics charts, 3D card flips, and gamification), maintaining an ultra-light bundle footprint[cite: 2].
+  - **Infrastructure:** Orchestrated containerized environments via **Docker Compose** (`PostgreSQL` + backend) and ensured test coverage and reliability through **JUnit & Maven** test suites[cite: 2].
 
 #### 🤖 AI Integration & Data Automation
-* **Retail Inventory Assistant – Carrefour Romania (Cluj-Vivo):** Engineered a hybrid PySide/CLI automation tool connecting an LLM with SQLite databases, backed by a persistent JSON session state for accurate inventory lookups.
-* **Company Expense Management System (Oracle DB & PL/SQL):** Architected a relational financial tracking system; programmed transactional procedures, packages, functions, and triggers to enforce fiscal data consistency and automated reporting.
-* **AI in Microeconomics (Research Initiative):** Collaborated on data simulation workflows using Python and data analytics libraries to model market dynamics and agent behaviors.
+- **Retail Inventory Assistant – Carrefour Romania (Cluj-Vivo):** Engineered a hybrid PySide/CLI automation tool connecting an LLM with SQLite databases, backed by a persistent JSON session state for natural language inventory querying[cite: 1].
+- **Company Expense Management System (Oracle DB & PL/SQL):** Architected a relational financial tracking system; programmed transactional procedures, packages, functions, and triggers to enforce fiscal data integrity and automated reporting[cite: 1].
+- **AI in Microeconomics (Research Initiative):** Collaborated on data simulation workflows using Python and data analytics libraries to model and visualize complex microeconomic market behaviors[cite: 1].
 
 #### 🖥️ Desktop & Enterprise Systems (C# / .NET / Java)
-* **Art Gallery Management System:** Developed an enterprise desktop management application in **C#/.NET & MsSQL** featuring role-based access control (RBAC), multi-criteria search filters, and automatic transaction audit trails.
-* **Chessboard Logic Engine:** Built a modular desktop engine enforcing strict SOLID and OOP principles for move validation, edge-case checking, and live board visualization.
-* **Parking Subscription Management System (Agile Team Project):** Implemented an administrative desktop dashboard streamlining subscription lifecycles, user accounts, and billing reports.
+- **Art Gallery Management System:** Developed an enterprise desktop management application in **C#/.NET & MsSQL** featuring role-based access control (RBAC), multi-criteria search filters, and automated audit trails[cite: 1].
+- **Chessboard Logic Engine:** Built a modular desktop engine enforcing strict SOLID and OOP principles for real-time move validation, edge-case checking, and live board rendering.
+- **Parking Subscription Management System (Agile Team Project):** Implemented an administrative desktop dashboard streamlining subscription lifecycles, user accounts, and financial reports[cite: 1].
 
 ---
 
 ### 📜 Certifications & Achievements
-* 🎓 **Professional Certification in Data Analytics with Python and AI**
-* 📜 **Professional Certification in Computer Science** (Algorithms & Programming Core)
-* 🛡️ **LinkedIn Learning Credentials:** Project Management & Network Security
-* 🇬🇧 **Cambridge C1 Advanced Certificate** (Fluent Professional English)
-* 🗄️ *In Progress:* Advanced Industry SQL & Database Architecture Specialization
+- 🎓 **Professional Certification in Data Analytics with Python and AI**[cite: 1]
+- 📜 **Professional Certification in Computer Science** (Algorithms & Programming Core)
+- 🛡️ **LinkedIn Learning Credentials:** Project Management & Network Security[cite: 1]
+- 🇬🇧 **Cambridge C1 Advanced Certificate** (Fluent Professional Working English)[cite: 1]
+- 🗄️ *In Progress:* Advanced Industry SQL & Database Architecture Specialization
 
 ---
 
 ### 🤝 Interpersonal Strengths & Community
-* **Cross-Disciplinary Translation:** Skilled at bridging the communication gap between software engineering, product design, and business requirements.
-* **Root-Cause Analysis:** Proactive in uncovering technical edge cases, deployment bottlenecks, and UX friction early in the sprint cycle.
-* **Volunteer Educator (1 Year):** Mentored underprivileged children at the *"Joy for Everyone"* Shelter, reinforcing strong empathy and user-centric communication.
+- **Cross-Disciplinary Translation:** Skilled at bridging communication between software engineering, product design, and business stakeholders[cite: 1].
+- **Root-Cause Analysis:** Proactive in identifying operational risks, technical edge cases, and UX friction early in the sprint cycle[cite: 1].
+- **Volunteer Educator (1 Year):** Mentored underprivileged children at the *"Joy for Everyone"* Shelter, building strong empathy and user-centric communication skills.
